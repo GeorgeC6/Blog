@@ -16,20 +16,21 @@
  weight = 10
 
 [[main]]
- name = "分类"
+ name = "标签"
+ pageRef = "tags"
  weight = 20
 
-[[main]]
- name = "example sub-menu 1"
- parent = "分类"
- pageRef = "posts"
- weight = 20
+# [[main]]
+#  name = "技术"
+#  parent = "分类"
+#  pageRef = "posts"
+#  weight = 20
 
-[[main]]
- name = "example sub-menu 2"
- parent = "分类"
- pageRef = "posts"
- weight = 20
+# [[main]]
+#  name = "生活"
+#  parent = "分类"
+#  pageRef = "posts"
+#  weight = 20
 
 # [[subnavigation]]
 #  name = "An interesting topic"
@@ -47,7 +48,7 @@
 #  pageRef = "categories"
 #  weight = 20
 
-#[[main]]
+# [[main]]
 #  name = "Tags"
 #  pageRef = "tags"
 #  weight = 30
