@@ -1,4 +1,4 @@
-# **欢迎来到 George 的博客！**
+# **欢迎来到我的博客！**
 
 <!-- termynal: {"prompt_literal_start": [">"], title: It's (almost) Valentine's Day!}-->
 
