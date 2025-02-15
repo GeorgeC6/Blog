@@ -2,22 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://blog.gorco.me/</loc>
-         <lastmod>2025-02-13</lastmod>
+         <lastmod>2025-02-15</lastmod>
     </url>
     <url>
          <loc>https://blog.gorco.me/tags/</loc>
-         <lastmod>2025-02-13</lastmod>
+         <lastmod>2025-02-15</lastmod>
     </url>
     <url>
          <loc>https://blog.gorco.me/2024/03/21/%E5%85%B3%E4%BA%8E%E7%BA%A7%E6%95%B0sum-limits_n--1infty-dfrac1n2%E7%9A%84%E8%AE%A8%E8%AE%BA/</loc>
-         <lastmod>2025-02-13</lastmod>
+         <lastmod>2025-02-15</lastmod>
     </url>
     <url>
          <loc>https://blog.gorco.me/2024/12/31/%E5%88%86%E7%A6%BB%E5%8F%98%E9%87%8F%E6%B3%95%E8%A7%A3%E8%96%9B%E5%AE%9A%E8%B0%94%E6%96%B9%E7%A8%8B%E7%9A%84%E5%88%9D%E6%AD%A5%E6%8E%A2%E7%B4%A2/</loc>
-         <lastmod>2025-02-13</lastmod>
+         <lastmod>2025-02-15</lastmod>
+    </url>
+    <url>
+         <loc>https://blog.gorco.me/2025/02/15/termynal%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BB%88%E7%AB%AF%E5%8A%A8%E7%94%BB%E6%8F%92%E4%BB%B6/</loc>
+         <lastmod>2025-02-15</lastmod>
+    </url>
+    <url>
+         <loc>https://blog.gorco.me/archive/2025/</loc>
+         <lastmod>2025-02-15</lastmod>
     </url>
     <url>
          <loc>https://blog.gorco.me/archive/2024/</loc>
-         <lastmod>2025-02-13</lastmod>
+         <lastmod>2025-02-15</lastmod>
     </url>
 </urlset>
