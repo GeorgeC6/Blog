@@ -18,9 +18,10 @@ theme:
       thesis: material/file-document
       physics: material/atom
       math: material/function-variant
+      code: fontawesome/solid/code
   custom_dir: overrides
   features:
-    - header.autohide # 向下滚动时自动隐藏header
+    # - header.autohide # 向下滚动时自动隐藏header
     - navigation.tracking # 地址栏中的 URL 会随当前位置变化为对应小节的 URL
     # - navigation.tabs
     - navigation.top
@@ -80,6 +81,7 @@ extra:
     课程论文: thesis
     微积分: math
     量子力学: physics
+    编程技术: code
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -125,6 +127,7 @@ plugins:
   - minify:
       minify_html: true # 好像能加快网页加载速度？!
   - tags
+  - meta
   - blog:
       blog_dir: .
       blog_toc: true
@@ -137,6 +140,7 @@ plugins:
       categories:
         - categories
         - tags
+      comments_path: "#__comments"
   - termynal:
       prompt_literal_start:
         - "$"

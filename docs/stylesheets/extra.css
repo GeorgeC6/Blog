@@ -38,3 +38,11 @@
     border-radius: 8px;        /* 圆角半径 */
     vertical-align: middle;
   }
+
+  .logo-img-inline {
+    width: 18px;
+    height: 18px;
+    object-fit: cover;         /* 保证图片裁剪后不变形 */
+    border-radius: 2px;        /* 圆角半径 */
+    vertical-align: middle;
+  }
