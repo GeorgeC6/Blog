@@ -3,3 +3,4 @@ mkdocs-minify-plugin==0.8.0
 jieba==0.42.1
 mkdocs-rss-plugin==1.17.1
 termynal==0.13.0
+mkdocs-glightbox

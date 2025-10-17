@@ -3,6 +3,8 @@ date:
     created: 2025-02-15
 tags:
     - 编程技术
+    - MkDocs
+slug: termynal
 ---
 
 # Termynal：一个有趣的终端动画插件
