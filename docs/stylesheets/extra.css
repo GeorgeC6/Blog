@@ -1,9 +1,11 @@
-[data-md-color-scheme="default"] {
-  --md-default-bg-color: #eeeada;
+/* 内容区域范围 */
+.md-grid {
+  max-width: 90%;
 }
 
-[data-md-color-scheme="slate"] {
-  --md-default-bg-color: #0e1116;
+/* 标题统一加粗 */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold !important;
 }
 
 @keyframes heart {

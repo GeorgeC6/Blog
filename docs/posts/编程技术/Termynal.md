@@ -1,6 +1,7 @@
 ---
 date:
     created: 2025-02-15
+    updated: 2026-10-07
 tags:
     - 编程技术
     - MkDocs
@@ -17,6 +18,13 @@ slug: termynal
 见：:fontawesome-brands-github: [termynal.js](https://github.com/ines/termynal){target=_blank}
 
 后来有人将其做成了 MkDocs 的插件，使用起来非常方便。见：:fontawesome-brands-github: [termynal.py](https://github.com/termynal/termynal.py){target=_blank}
+
+!!! tip "关于与 Zensical 的兼容性"
+    作者在写这篇文章的时候还没有 Zensical，所以下面有关插件的介绍都基于 Mkdocs Material.
+
+    不过好消息是，Termynal 现在也提供了对 Zensical 的支持。不过需要将 Termynal 配置为 Python Markdown 扩展，并按[官方集成说明](https://github.com/termynal/termynal.py#zensical-integration)处理 CSS/JS 资源。
+
+    > 让 Agent 迁移就基本没啥问题，真是日新月异啊...
 
 ## 安装
 
@@ -155,4 +163,3 @@ code here
 - :fontawesome-brands-github: [mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin){target=_blank}
 - ![](https://guts.github.io/mkdocs-rss-plugin/assets/logo_rss_plugin_mkdocs.png){.logo-img-inline} [MkDocs RSS Plugin 文档站点](https://guts.github.io/mkdocs-rss-plugin/){target=_blank}
 - :simple-materialformkdocs: [Termynal 文档站点](https://termynal.github.io/termynal.py/){target=_blank}
-- Special thanks to [![Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white){style="vertical-align: middle;"}](https://squidfunk.github.io/mkdocs-material/){target=_blank} that made all of these plugins and sites (including this blog) possible.

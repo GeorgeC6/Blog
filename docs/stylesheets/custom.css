@@ -1,0 +1,16 @@
+/* Increase the site's overall type scale by 10%, keeping Zensical's breakpoints. */
+html {
+  font-size: 137.5%;
+}
+
+@media screen and (min-width: 100em) {
+  html {
+    font-size: 151.25%;
+  }
+}
+
+@media screen and (min-width: 125em) {
+  html {
+    font-size: 165%;
+  }
+}

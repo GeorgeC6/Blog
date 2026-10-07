@@ -1,7 +1,6 @@
-<!-- set show comments to default-->
-{% if page.meta.comments == null %}
+{% if page.meta.comments %}
 
-<!-- Insert generated snippet here -->
+<h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
 <script src="https://giscus.app/client.js"
         data-repo="GeorgeC6/Blog"
         data-repo-id="R_kgDON4XJTQ"
